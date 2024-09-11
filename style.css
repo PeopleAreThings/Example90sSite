@@ -1,0 +1,20 @@
+html {
+    size: 100%;
+}
+
+body {
+    background-image: url(starry.gif);
+}
+
+.rainbow-text {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  }
+
+marquee {
+    font-size: 20px;
+    color: white;
+}
+
+p {
+    color: white;
+}
